@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+
+<jobs>
+<job>
+<status>active</status>
+<date>2016-01-09</date>
+<title>Software Developer</title>
+<tech>Java, C++, Haskell, Python, Ruby</tech>
+<desc>As a software developer you will write software...</desc>
+</job>
+<job>
+<status>closed</status>
+<date>2016-02-11</date>
+<title>Software Engineer (Unix)</title>
+<tech>Unix, C</tech>
+<desc/>
+</job>
+<job>
+<status>active</status>
+<date>2015-04-12</date>
+<title>Accountant</title>
+<tech>Excel</tech>
+<desc>financial accounting</desc>
+</job>
+</jobs>

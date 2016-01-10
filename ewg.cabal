@@ -1,0 +1,20 @@
+Name:    ewg
+Version: 0.1
+
+Synopsis: Eisenbits website generator
+
+Author:       Stanislaw Findeisen
+
+Cabal-Version: >= 1.10
+Build-Type:    Simple
+
+Executable ewg
+  Default-Language: Haskell2010
+  Ghc-options:      -Wall
+  Hs-source-dirs:   src
+  Main-is:          ewg.hs
+  Other-Modules:    Jobs
+
+  Build-depends:
+    base      == 4.*,
+    hxt       >= 9.3.1.1

@@ -1,2 +1,2 @@
 # ewg
-eisenbits website generator
+Eisenbits website generator
